@@ -1,0 +1,8 @@
+{
+  "name": "learnyournode_Kevin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KevinLai02/learnyournode_Kevin.git",
+  "author": "kevin1547 <c110181143@nkust.edu.tw>",
+  "license": "MIT"
+}
