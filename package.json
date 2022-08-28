@@ -1,8 +1,26 @@
 {
-  "name": "learnyournode_Kevin",
+  "name": "learnyounode_kevin",
   "version": "1.0.0",
+  "description": "\"# learnyounode_kevin\"",
   "main": "index.js",
-  "repository": "https://github.com/KevinLai02/learnyournode_Kevin.git",
-  "author": "kevin1547 <c110181143@nkust.edu.tw>",
-  "license": "MIT"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin1547/learnyounode_kevin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin1547/learnyounode_kevin/issues"
+  },
+  "homepage": "https://github.com/kevin1547/learnyounode_kevin#readme",
+  "dependencies": {
+    "bl": "^5.0.0",
+    "colors": "^1.4.0",
+    "concat": "^1.0.3",
+    "concat-stream": "^2.0.0"
+  }
 }
